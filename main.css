@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #FFFFDD;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+ background-color: #61A3BA;
+ color: #FFFFDD;
+}
+
+h1 {
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+li {
+    padding: 8px;
+    
+}
+.logo {
+    display: block;
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    text-align: center;
+    padding: 8px;
+    font-size: 2rem;
+}
+
+.recipe-list {
+    text-align: center;
+}
+
+footer {
+
+}
